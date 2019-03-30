@@ -4,7 +4,7 @@ classic content-based image retrieval using python (feature vector distance)
 **Each feature vector consists of an:**
 * **RGB Color Histogram**
 * **Indexed Color Histogram** (using the indices of color classes in a global LUT)
-* **DCT2 (Discrete Cosine Transform) Low Frequency features**
+* **DCT2 (Discrete Cosine Transform) Low Frequency Range**
 * **GLCM (Gray-Level Co-occurrence Matrix) Energy And Contrast**
 
 **Dependencies:**
